@@ -7,5 +7,5 @@ This project is an experimental facial similarity software designed for use with
 The general architecture is:
 
 ```
-  Nx(Transformer Encoders) -> (Encoder MLP) -> (Decoder MLP)
+  Nx(Transformer Encoders) -> Autoencoder((Encoder MLP) -> (Decoder MLP))
 ```
