@@ -1,5 +1,5 @@
-# RSteFR
-Facial recognition using transformer encoders 
+# RSfsTR
+Facial salience from transformer representations. Can be used for facial recognition.
 
 
 This project is an experimental facial similarity software designed for use with RSvIDX. 
